@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-11-14
+  Features:
+    - Adds infinite foundation productivity research
+  Changes:
+    - Add mod thumbnail
+    - info json
+    - locale.cfg
+    - Update info.json
+    - Update license
+    - Update README.md
