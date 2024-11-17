@@ -7,8 +7,8 @@ data:extend({
       icon_size = 256,
       icons = {
         {
-          icon = "__foundation-productivity__/graphics/technologies/foundation-productivity.png",
-          icon_size = 256
+            icon = "__space-age__/graphics/technology/foundation.png",
+            icon_size = 256,
         },
         {
           icon = "__core__/graphics/icons/technology/constants/constant-recipe-productivity.png",
